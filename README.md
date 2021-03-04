@@ -10,7 +10,7 @@
 
 <img align="left" alt="Github" width="45px" href="https://github.com/" src="/icons/icons8-github-512.png">
 <img align="left" alt="VsCode" width="45px" href="https://code.visualstudio.com/download" src="/icons/icons8-visual-studio-code-2019-480.png">
-<img align="left" alt="Atom" width="45px" href="https://atom.io/" src="/icons/icons8-atom-editor-480.png">
+<a target="_blank" href="https://atom.io/"><img align="left" alt="Atom" width="45px" href="https://atom.io/" src="/icons/icons8-atom-editor-480.png">
 
 <img align="left" alt="AWS" width="45px" href="https://aws.amazon.com/" src="/icons/icons8-amazon-web-services-480.png">
 <img align="left" alt="Azure" width="45px" href="https://azure.microsoft.com/" src="/icons/icons8-azure-480.png">
