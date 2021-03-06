@@ -18,18 +18,5 @@
 <a target="_blank" href="https://azure.microsoft.com/"><img align="left" alt="Azure" width="45px" src="/icons/icons8-azure-480.png">
 </div>
 <br>
-  
-
-
-
-
-
-
-
-
-
-
-
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifmamon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
