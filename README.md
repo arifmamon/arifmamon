@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=arifmamon&color=green)
 
 ### Ｔｅｃｈ Ｓｔａｃｋ
-<div align-items="centerr">
+<div align-items="center">
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML" width="45px" src="/icons/icons8-html-5-512.png">
 <a target="_blank" href="https://en.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="45px" src="/icons/icons8-css3-512.png">
 <a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" alt="JavaScript" width="45px" src="/icons/icons8-javascript-512.png">
