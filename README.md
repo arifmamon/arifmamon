@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=arifmamon&color=greesn)
+![](https://komarev.com/ghpvc/?username=arifmamon&color=gresn)
 
 ### Ｔｅｃｈ Ｓｔａｃｋ
 <div align-items="center">
