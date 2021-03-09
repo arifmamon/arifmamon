@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?us<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"
+![](https://komarev.com/ghpvc/?username=arifmamon&color=green)<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
   <img width="250" src="https://media1.tenor.com/images/9cef52ce27ab97e0fa9cfac1cdc1007f/tenor.gif?itemid=9525859">
