@@ -1,5 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=arifmamon&color=green)
 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+
 ### Ｔｅｃｈ Ｓｔａｃｋ
 <div align-items="center">
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML" width="45px" src="/icons/icons8-html-5-512.png">
