@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=arifmamon&color=green)
 
 <p align="center">
-  <img width="250" src="https://tenor.com/view/yawn-tired-anime-gif-9525859">
+  <img width="250" src="https://media1.tenor.com/images/9cef52ce27ab97e0fa9cfac1cdc1007f/tenor.gif?itemid=9525859">
 </p>
 
 
