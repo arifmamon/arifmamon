@@ -19,5 +19,5 @@
 <a target="_blank" href="https://atom.io/"><img align="left" alt="Atom" width="35px" src="/icons/icons8-atom-editor-480.png">
 <a target="_blank" href="https://aws.amazon.com/"><img align="left" alt="AWS" width="35px" src="/icons/icons8-amazon-web-services-480.png">
 <a target="_blank" href="https://azure.microsoft.com/"><img align="left" alt="Azure" width="35px" src="/icons/icons8-azure-480.png">
-<a target="_blank" src="https://github-readme-stats.vercel.app/api?username=arifmamon&show_icons=true&theme=calm">
+<img src="https://github-readme-stats.vercel.app/api?username=arifmamon&show_icons=true&theme=calm">
 <div>
