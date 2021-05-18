@@ -6,7 +6,6 @@
 
 
 ## Ｔｅｃｈ Ｓｔａｃｋ 💨
-<code>
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML5"><img align="left" alt="HTML" width="45px" src="/icons/icons8-html-5-512.png">
 <a target="_blank" href="https://en.wikipedia.org/wiki/CSS"><img align="left" alt="CSS" width="45px" src="/icons/icons8-css3-512.png">
 <a target="_blank" href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" alt="JavaScript" width="45px" src="/icons/icons8-javascript-512.png">
@@ -23,4 +22,3 @@
 <a target="_blank" href="https://azure.microsoft.com/"><img align="left" alt="Azure" width="45px" src="/icons/icons8-azure-480.png">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifmamon&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
-</code>
